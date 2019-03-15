@@ -1,2 +1,5 @@
 Version 1.0.0
-  Ajout du Changelog.txt
+  Ajout de ce Changelog
+  Ajout de l'Installer
+  Ajout de l'Updater
+  Ajout du Launcher
