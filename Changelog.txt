@@ -1,4 +1,7 @@
-Version 1.0.0
+Version 0.0.5:
+    Début du Launcher
+
+Version 0.0.1
   Ajout de ce Changelog
   Ajout de l'Installer
   Ajout de l'Updater
