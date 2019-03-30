@@ -1,3 +1,12 @@
+Version 0.0.7:
+	Ajout du marché pour installer des applications
+	Ajout du sytème de téléchargement
+	Patch du système de notifications
+	
+Version 0.0.6:
+	Ajout de la liste des applications
+	Possibilité de mettre à jour une application
+
 Version 0.0.5:
     Début du Launcher
 
